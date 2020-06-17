@@ -9,8 +9,8 @@ Contributions to this project are [released](https://help.github.com/articles/gi
 
 ## Opening an issue
 
-Thank you for taking the time to open an issue, your feedback helps make Hacktoberfest-Docker better.
-Before opening an issue, please be sure that your issue hasn't already been asked by using [GitHub search](https://help.github.com/articles/searching-issues/)
+Thank you for taking the time to open an issue; your feedback helps make Hacktoberfest-Docker better.
+Before opening an issue, please be sure that your issue hasn't already been asked by using [GitHub search](https://help.github.com/articles/searching-issues/).
 
 Here are a few things that will help us help resolve your issues:
 
@@ -18,6 +18,7 @@ Here are a few things that will help us help resolve your issues:
 - A thorough description of the issue, (one word descriptions are very hard to understand)
 - Screenshots (if appropriate)
 - Links (if appropriate)
+- Labels (if appropriate)
 
 ## Submitting a pull request
 
